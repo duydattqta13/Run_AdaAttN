@@ -1,0 +1,9 @@
+How to run with image:
+
+python image_style_transfering.py ./data/images/content/content.jpg ./data/images/style/style_3.jpg ./results/out3.jpg
+
+---------------------------
+
+format: python image_style_transfering.py [CONTENT_PATH] [STYLE_PATH] [OUTPUT] 
+
+Trỏ thẳng đến file ảnh.jpg
